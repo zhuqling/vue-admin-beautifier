@@ -47,7 +47,7 @@
     "vue-waterfall-easy": "^2.4.4",
     "vuedraggable": "^2.23.2",
     "vuex": "^3.4.0",
-    "xlsx": "^0.16.1",
+    "xlsx": "^0.17.0",
     "zx-count": "^0.3.4",
     "zx-icon": "^1.0.2",
     "zx-keel": "^0.9.0",
